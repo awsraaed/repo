@@ -1,8 +1,8 @@
-Origin: ALFAHAD.İO CYDIA REPO
-Label: ALFAHAD.İO CYDIA REPO
+Origin: Alfahad.io Repo
+Label: Alfahad.io Repo
 Suite: stable
-Version: 1.0
+Version: 1.0 Beta
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: Alfahad.io
 Components: main
-Description: ALFAHAD.İO CYDIA REPO
+Description: Alfahad.io Repo
